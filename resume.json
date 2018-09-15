@@ -2,129 +2,163 @@
   "basics": {
     "name": "Brian Pradipta Anjasmara",
     "label": "Programmer",
-    "picture": "",
+    "picture": "https://imgur.com/a/3xilFPK",
     "email": "brian.pradipta.a@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "081803225903",
+    "summary": "When i was a kid, I spent many hours every day to play pinball game and paint (yes, i know...) on my computer. Fast forward today, I still enjoy spending most of my day in front of computer, mainly due to my interest in computer hardware and technology wonders. Because of that, I decided to join Hacktiv8 --a bootcamp program to become full-stack web developer-- and immerse myself in a world of programming ever since.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Jl. Akasia 1490 Bukit Nusa Indah",
+      "postalCode": "15414",
+      "city": "Tangerang Selatan",
+      "countryCode": "ID",
+      "region": "Banten"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "kneric",
+        "url": "https://twitter.com/kneric"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Facebook",
+        "username": "beoulvez",
+        "url": "https://www.facebook.com/beoulvez"
+      },
+      {
+        "network": "Github",
+        "username": "kneric",
+        "url": "https://www.github.com/kneric"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "PT Jaya Konstruksi Manggala Pratama,Tbk",
+      "position": "Training and Development Officer",
+      "website": "http://www.jayakonstruksi.com/",
+      "startDate": "2016-04-01",
+      "endDate": "2016-12-31",
+      "summary": "PT Jaya Konstruksi Manggala Pratama, Tbk is one of the construction companies in Indonesia that has been successfully operated for more than four decades.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "My main responsibility is to handle back and forth of 'Engineering Training'; an inhouse 6-weeks training that prepares engineers to be more ready to become a Project Manager"
       ]
     }
   ],
-  "volunteer": [
+  "internship": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "LP3T (Lembaga Pengkajian dan Pengembangan Psikologi Terapan) UNAIR",
+      "position": "Assessor Assistant",
+      "website": "http://coderdojo.cohttps://lp3t.psikologi.unair.ac.id/",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Pelopor Psikologi Positif di Indonesia",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Administrate psychological testing and assessment for recruitment and selection purposes"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Universitas Airlangga",
+      "area": "Psychology",
       "studyType": "Bachelor",
       "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+      "endDate": "2016-12-01",
+      "gpa": "3.38",
+      "activities": [
+        "BEM (Student Executive Board)",
+        "Publication and Documentation at Faculty Ambassador"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "title": "2nd Place at National Student Science Fair 2013",
+      "date": "2013-09-01",
+      "awarder": "Direktorat Jenderal Perguruan Tinggi"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Node JS",
+      "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
+        "Node",
         "Javascript"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "React",
+      "level": "Intermediate",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "React",
+        "Frontend",
+        "Web"
+      ]
+    },
+    {
+      "name": "Express JS",
+      "level": "Intermediate",
+      "keywords": [
+        "Express",
+        "Server",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Mongo DB",
+      "level": "Intermediate",
+      "keywords": [
+        "Mongo",
+        "Database",
+        "NO SQL"
+      ]
+    },
+    {
+      "name": "React Native",
+      "level": "Intermediate",
+      "keywords": [
+        "React Native",
+        "Mobile",
+        "Android"
+      ]
+    },
+    {
+      "name": "Vue JS",
+      "level": "Intermediate",
+      "keywords": [
+        "Vue",
+        "Frontend",
+        "Web"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Database",
+        "SQL",
+        "Postgre"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Bahasa",
+      "fluency": "Native speakers"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Avid non-fiction reader",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Books",
+        "Articles"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
